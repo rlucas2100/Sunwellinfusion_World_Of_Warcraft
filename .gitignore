@@ -1,0 +1,15 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Old local backups (history lives in git now)
+SunwellInfusion/backup_v*/
+
+# Release zips / packager output
+*.zip
+.release/

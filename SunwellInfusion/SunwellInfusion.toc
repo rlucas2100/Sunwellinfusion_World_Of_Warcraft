@@ -1,0 +1,9 @@
+## Interface: 120105, 120100, 120001
+## Title: |cffffd200Sunwell|r Infusion
+## Notes: Big bright Infusion of Light charges for Holy Paladin (Inflorescence of the Sunwell, S2 tier)
+## Author: Ryan
+## Version: 1.9.0
+## SavedVariables: SunwellInfusionDB
+
+Core.lua
+Engine.lua
