@@ -71,4 +71,4 @@ SunwellInfusion/
 
 ## Author
 
-Made by Ryan ([rlucas2100](https://github.com/rlucas2100)).
+Made by Orion ([rlucas2100](https://github.com/rlucas2100)).
